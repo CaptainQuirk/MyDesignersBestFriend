@@ -1,0 +1,9 @@
+[submodule "vendor/mustache.php"]
+	path = vendor/mustache.php
+	url = https://github.com/bobthecow/mustache.php.git
+[submodule "vendor/Symfony/Component/Yaml"]
+	path = vendor/Symfony/Component/Yaml
+	url = https://github.com/symfony/Yaml.git
+[submodule "vendor/Symfony/Component/ClassLoader"]
+	path = vendor/Symfony/Component/ClassLoader
+	url = https://github.com/symfony/ClassLoader.git
